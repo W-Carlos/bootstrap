@@ -1,3 +1,6 @@
+body {
+    font: 20px Arial, Sans-serif
+}
 .navbar {
     background-color: #3498db;
 }
@@ -7,6 +10,12 @@
 }
 
 .margin {
-    padding-top: 30px;
-    /*padding, cria uma margem interna*/
+    padding-top: 20px;/*padding, cria uma margem interna*/
+    padding-bottom: 50px;
+
 }
+
+.parceiros{
+    background-color: #58B2FA;
+}
+
